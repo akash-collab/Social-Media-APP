@@ -1,0 +1,16 @@
+# Node.js modules
+/node_modules
+/api/node_modules
+/social-app/node_modules
+
+# Environment files
+/api/.env
+/social-app/.env
+
+# Build folders
+/api/build
+/social-app/build
+
+# Logs
+/api/logs
+/social-app/logs
